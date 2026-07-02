@@ -6,7 +6,7 @@ A modern weather web application built with vanilla HTML, CSS and JavaScript usi
 
 ## 🚀 Live Demo
 
-**[➜ Open Weather Journal](https://rossiav802-code.github.io/weather-app/)**
+**[➜ Open Weather Journal](https://rossiav802-code.github.io/Weather-app/)**
 
 ---
 
