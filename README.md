@@ -6,7 +6,7 @@ A modern weather web application built with vanilla HTML, CSS and JavaScript usi
 
 ## 🚀 Live Demo
 
-**[➜ Open Weather Journal](https://your-username.github.io/weather-app/)**
+**[➜ Open Weather Journal](https://rossiav802-code.github.io/weather-app/)**
 
 ---
 
@@ -22,7 +22,6 @@ A modern weather web application built with vanilla HTML, CSS and JavaScript usi
 - 🎨 Custom SVG weather icons
 - 📱 Fully responsive design
 - ⚡ Fast loading with Fetch API
-- 🔐 Secure API requests with OpenWeather
 
 ---
 
@@ -60,11 +59,11 @@ weather-app/
 git clone https://github.com/rossiav802-code/weather-app.git
 ```
 
-2. Get a free API key from OpenWeather.
+2. Get a free API key from **OpenWeather**.
 
 3. Open `index.html` in your browser.
 
-Or simply open the **Live Demo**.
+Or just open the **[Live Demo](https://rossiav802-code.github.io/weather-app)**
 
 ---
 
@@ -72,5 +71,5 @@ Or simply open the **Live Demo**.
 
 **Aslan Oymahmadov**
 
-- GitHub: https://github.com/rossiav802-code
+- GitHub: [@rossiav802-code](https://github.com/rossiav802-code)
 - Email: rossiav802@gmail.com
