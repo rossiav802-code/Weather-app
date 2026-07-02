@@ -63,7 +63,7 @@ git clone https://github.com/rossiav802-code/weather-app.git
 
 3. Open `index.html` in your browser.
 
-Or just open the **[Live Demo](https://rossiav802-code.github.io/weather-app)**
+Or just open the **[Live Demo](https://rossiav802-code.github.io/Weather-app)**
 
 ---
 
