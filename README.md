@@ -69,7 +69,5 @@ Or just open the **[Live Demo](https://rossiav802-code.github.io/Weather-app)**
 
 ## 👤 Author
 
-**Aslan Oymahmadov**
-
 - GitHub: [@rossiav802-code](https://github.com/rossiav802-code)
 - Email: rossiav802@gmail.com
